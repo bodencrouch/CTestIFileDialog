@@ -37,3 +37,9 @@
 /build/.cmake
 /.cache
 /build
+.claude/
+.cursor/
+.mission/
+.remember/
+AGENTS.md
+CLAUDE.md
